@@ -1,4 +1,4 @@
-{
+{ 
     "name": "son/mvc",
     "require": {
         "php": ">=5.6"
